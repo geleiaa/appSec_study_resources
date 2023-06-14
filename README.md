@@ -32,3 +32,4 @@
 
 * Appsec Interview Prep => https://gist.github.com/themoonofendor/da6eb90f7b2a3f4db2ad42ecfb81977e
 * Awesome AppSec => https://github.com/paragonie/awesome-appsec
+* TrendMicro Owasp Top 10 => https://www.trendmicro.com/pt_br/devops/21/k/overview-owasp-top-10-2021.html
