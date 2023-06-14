@@ -26,3 +26,9 @@
 * https://blog.convisoappsec.com/modelagem-de-ameacas-o-que-e-e-por-que-desenvolvedores-devem-ficar-atentos-a-isso/
 * https://github.com/jassics/security-study-plan/blob/main/threat-modeling-study-plan.md
 
+
+### Outros
+>___
+
+* Appsec Interview Prep => https://gist.github.com/themoonofendor/da6eb90f7b2a3f4db2ad42ecfb81977e
+* Awesome AppSec => https://github.com/paragonie/awesome-appsec
