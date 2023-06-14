@@ -19,4 +19,10 @@
 ### Modelagens de Ameaças (Threat Modeling)
 >___
 
+* https://owasp.org/www-community/Threat_Modeling
+* https://www.threatmodelingmanifesto.org/
+* https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html
+* https://blog.convisoappsec.com/design-segundo-samm-modelagem-de-ameacas-em-seguranca-de-aplicacoes/
+* https://blog.convisoappsec.com/modelagem-de-ameacas-o-que-e-e-por-que-desenvolvedores-devem-ficar-atentos-a-isso/
+* https://github.com/jassics/security-study-plan/blob/main/threat-modeling-study-plan.md
 
