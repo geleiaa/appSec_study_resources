@@ -34,6 +34,7 @@
 2. _**Secure Code Review**_ = security/appsec
 
 * https://parad0x-0xff.github.io/blog/2020/10/10/What-is-Code-Review.html
+* https://parad0x-0xff.github.io/dropdown/2020-10-17-Methods-Code-Review.html
 * https://snyk.io/blog/secure-code-review/
 * https://owasp.org/www-project-code-review-guide/
 * https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/3-Desenvolvimento.md#desenvolvimento
