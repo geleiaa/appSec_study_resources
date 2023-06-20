@@ -9,7 +9,6 @@
 * https://blog.convisoappsec.com/implementando-um-programa-de-seguranca-de-aplicacoes-baseado-no-owasp-samm/
 * https://owasp.org/www-project-integration-standards/writeups/owasp_in_sdlc/
 * https://owaspsamm.org/guidance/quick-start-guide/
-* https://www.zup.com.br/blog/ferramentas-ssdlc
 
 
 ### Requisitos (requisitos de segurança)
@@ -40,6 +39,25 @@
 * https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/3-Desenvolvimento.md#desenvolvimento
 * https://blog.convisoappsec.com/code-review-versus-secure-code-review/
 * https://blog.convisoappsec.com/diferenca-entre-code-review-e-sast/
+
+### Testing
+>___
+
+* https://owasp.org/www-project-web-security-testing-guide/latest/
+* https://owasp.org/www-project-web-security-testing-guide/latest/3-The_OWASP_Testing_Framework/0-The_Web_Security_Testing_Framework#A-Typical-SDLC-Testing-Workflow
+* https://brightsec.com/blog/application-security-testing/
+* https://www.zup.com.br/blog/ferramentas-ssdlc
+* https://blog.convisoappsec.com/verificacao-segundo-samm-testes-de-seguranca-em-seguranca-de-aplicacoes/
+* https://blog.convisoappsec.com/verificacao-segundo-samm-testes-orientados-a-requisitos-em-seguranca-de-aplicacoes/
+* https://owaspsamm.org/model/verification/security-testing/stream-a/
+* https://owaspsamm.org/model/verification/security-testing/stream-b/
+
+### Testing Tools
+* https://owasp.org/www-project-web-security-testing-guide/latest/6-Appendix/A-Testing_Tools_Resource
+* https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools
+* https://owasp.org/www-community/Source_Code_Analysis_Tools
+* https://owasp.org/www-community/Vulnerability_Scanning_Tools
+* https://owasp.org/www-community/api_security_tools
 
 ### Outros
 >___
