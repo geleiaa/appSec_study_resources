@@ -59,6 +59,15 @@
 * https://owasp.org/www-community/Vulnerability_Scanning_Tools
 * https://owasp.org/www-community/api_security_tools
 
+### Deployment
+>___
+
+* https://blog.convisoappsec.com/implementacao-segundo-samm-deploy-seguro-em-seguranca-de-aplicacoes/
+* https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/README
+* https://owaspsamm.org/model/implementation/secure-deployment/stream-a/
+* https://owaspsamm.org/model/implementation/secure-deployment/stream-b/
+
+
 ### Outros
 >___
 
@@ -66,3 +75,6 @@
 * Awesome AppSec => https://github.com/paragonie/awesome-appsec
 * TrendMicro Owasp Top 10 => https://www.trendmicro.com/pt_br/devops/21/k/overview-owasp-top-10-2021.html
 * Microsoft STRIDE => https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool
+* articles => https://www.appsecguy.se/tag/appsec/
+* talks, articles && more => https://www.appsecvillage.com/
+* articles => https://snyk.io/learn/topic/application-security/ 
