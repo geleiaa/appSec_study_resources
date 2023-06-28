@@ -16,6 +16,14 @@
 
 * https://blog.convisoappsec.com/design-segundo-samm-requisitos-de-seguranca-em-seguranca-de-aplicacoes/
 * https://github.com/wh0isdxk/DesenvolvimentoSeguro/blob/main/1-Planejamento.md#requisitos-de-seguran%C3%A7a
+* https://www.synopsys.com/blogs/software-security/software-security-requirements/
+* https://www.researchgate.net/publication/276284984_Security_Requirements_Engineering_Analysis_and_Prioritization
+* Security Quality Requirements Engineering (SQUARE) https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=484884
+
+#### Abuse Cases
+* https://cheatsheetseries.owasp.org/cheatsheets/Abuse_Case_Cheat_Sheet.html
+* https://www.synopsys.com/blogs/software-security/abuse-cases/
+* https://www.synopsys.com/blogs/software-security/abuse-cases-can-drive-security-requirements/
 
 ### Modelagens de Ameaças (Threat Modeling)
 >___
@@ -26,6 +34,7 @@
 * https://blog.convisoappsec.com/design-segundo-samm-modelagem-de-ameacas-em-seguranca-de-aplicacoes/
 * https://blog.convisoappsec.com/modelagem-de-ameacas-o-que-e-e-por-que-desenvolvedores-devem-ficar-atentos-a-isso/
 * https://github.com/jassics/security-study-plan/blob/main/threat-modeling-study-plan.md
+* https://threatmodeler.com/data-flow-diagrams-process-flow-diagrams/
 
 ### Secure Code Review
 >___
