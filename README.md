@@ -9,6 +9,7 @@
 * https://blog.convisoappsec.com/implementando-um-programa-de-seguranca-de-aplicacoes-baseado-no-owasp-samm/
 * https://owasp.org/www-project-integration-standards/writeups/owasp_in_sdlc/
 * https://owaspsamm.org/guidance/quick-start-guide/
+* intro to SDLC https://tryhackme.com/room/sdlc
 
 
 ### Requisitos (requisitos de segurança)
@@ -75,6 +76,7 @@
 * https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/README
 * https://owaspsamm.org/model/implementation/secure-deployment/stream-a/
 * https://owaspsamm.org/model/implementation/secure-deployment/stream-b/
+* intro to pipeline https://tryhackme.com/room/introtopipelineautomation
 
 
 ### Outros
