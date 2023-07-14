@@ -88,4 +88,5 @@
 * Microsoft STRIDE => https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool
 * articles => https://www.appsecguy.se/tag/appsec/
 * talks, articles && more => https://www.appsecvillage.com/
-* articles => https://snyk.io/learn/topic/application-security/ 
+* articles => https://snyk.io/learn/topic/application-security/
+* intro to appsec => https://www.linkedin.com/posts/joas-antonio-dos-santos_application-security-introduction-overview-activity-6859172257219063808-Ll8G?utm_source=share&utm_medium=member_desktop
